@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wf3ga9kI7fc1ctkHGk87akPC7OCdUYzNGan2H/ddnazkX8pX9ryRGNhFALtsypEGc9JU/TUy952MZt5eXGqhBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anibal\\OneDrive\\Escritorio\\Optativo IV\\ExamenFinalOptativoIV\\ExamenFinalOptativoIV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anibal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anibal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
